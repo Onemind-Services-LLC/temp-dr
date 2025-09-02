@@ -16,6 +16,6 @@ entries:
     - https://github.com/Onemind-Services-LLC/backup-restore.git
     type: application
     urls:
-    - https://github.com/Onemind-Services-LLC/temp-dr/backup-restore-1.5.7.tgz
+    - https://github.com/Onemind-Services-LLC/temp-dr/raw/refs/heads/master/backup-restore-1.5.7.tgz
     version: 1.5.7
 generated: "2025-09-02T16:20:43.115069588+05:30"
